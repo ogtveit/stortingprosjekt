@@ -7,6 +7,10 @@ parse_errors.txt
 # file with planning notes
 dataplan.txt
 
+# dont include extracted datafiles
+data/*
+
+
 # Created by https://www.gitignore.io/api/macos,python,windows,jupyternotebook
 
 ### JupyterNotebook ###
