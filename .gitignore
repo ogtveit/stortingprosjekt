@@ -10,6 +10,9 @@ dataplan.txt
 # dont include extracted datafiles
 data/*
 
+# dont include models
+models/*
+
 
 # Created by https://www.gitignore.io/api/macos,python,windows,jupyternotebook
 
